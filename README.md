@@ -29,8 +29,7 @@ Building intelligent digital ecosystems through innovation, technology, and conn
 
 ## Community
 
-Telegram:
-https://t.me/VXRAVornexa
+
 
 Twitter:
 https://x.com/vxravornexa
